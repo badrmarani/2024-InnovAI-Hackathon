@@ -1,4 +1,5 @@
-# Auralytics
+# Auralytics - Transform Your Client Calls to Business Insight
+
 
 Pitch Video: [Auralytics - Pitch](https://youtu.be/17PZWNGzWN0)
 
