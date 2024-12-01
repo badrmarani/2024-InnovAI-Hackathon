@@ -1,9 +1,10 @@
 # Auralytics
 
 Pitch Video: [Auralytics - Pitch](https://youtu.be/17PZWNGzWN0)
+
 Demo Video: [Auralytics - Demo](https://youtu.be/tzfSPOWtni8)
 
-<img src="./frontend/home.png" width="50%" alt="Home">
+<img src="./frontend/home.png" alt="Home">
 
 ## Background and Problem Statement
 
