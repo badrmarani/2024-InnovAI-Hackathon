@@ -5,8 +5,6 @@ Demo Video: [Auralytics - Demo](https://youtu.be/tzfSPOWtni8)
 
 <img src="./frontend/home.png" width="50%" alt="Home">
 
-<img src="./frontend/front.png" width="50%" alt="Audio">
-
 ## Background and Problem Statement
 
 Improving customer relationships and understanding is a strategic priority for telecommunications companies and call centers aiming to remain competitive. Many of these businesses invest significant effort into enhancing the operational efficiency of their communication channels, particularly call centers. However, this mission is complex due to the sheer volume of calls received, making it challenging to address client needs effectively during or after calls. Moreover, dissatisfied customers today are likely to churn tomorrow, underscoring the importance of meeting customer expectations.
