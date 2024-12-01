@@ -15,13 +15,13 @@ Improving customer relationships and understanding is a strategic priority for t
 
 **Solution.** We propose a speech analytics approach to automate tasks that do not require human intervention, enabling advisors to focus on more critical activities.
 
-1. Client Identity Verification:
+1. **Client Identity Verification:**
     - Automate client identity verification, which currently takes 30 seconds to 1 minute.
     - Automatically identify the client's name, phone number, address, postal code, and email address to save time and seamlessly transfer the customer to an advisor.
-1. Post-Call Summarization:
+1. **Post-Call Summarization:**
     - Automatically generate summaries of calls to maintain a detailed call history.
     - This improves customer knowledge for future interactions and evaluates advisor performance and response relevance.
-1. Sentiment Analysis:
+1. **Sentiment Analysis:**
     - Analyze customer sentiment throughout the call and compare the sentiment at the beginning and end.
     - This helps measure the advisor's ability to address client needs effectively.
 
